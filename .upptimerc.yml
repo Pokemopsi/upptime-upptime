@@ -30,6 +30,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Help
+      href: https://www.rz.uni-osnabrueck.de/dienste/beratung/beratungsteam/index.html
   theme: light
 
 # Upptime also supports notifications, assigning issues, and more
