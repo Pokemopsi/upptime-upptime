@@ -5,6 +5,7 @@ repo: upptime-upptime # The name of this repository
 sites:
   - name: Sogo
     url: https://sogo.uni-osnabrueck.de
+    icon: https://www.saashub.com/images/app/service_logos/9/699f7e38eef7/large.png?1528350016
     method: POST
     maxResponseTime: 1000
   - name: Rechenzentrum Uni
